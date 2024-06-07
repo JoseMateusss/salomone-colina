@@ -32,6 +32,6 @@ Para essa parte de personalização foi usado conceitos como: **custom post type
 
 ## Demonstração Online
 
-Uma demonstração do projeto está disponível online [aqui](https://salonome.debriefingpro.com.br/). Esta demonstração será retirada do ar ao fim do processo seletivo.
+Uma demonstração do projeto está disponível online [aqui](https://salonome.debriefingpro.com.br/).
 login: admin
 senha admin
